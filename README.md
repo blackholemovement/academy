@@ -1,0 +1,2 @@
+# academy
+Singularitarian political academy
